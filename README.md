@@ -1,4 +1,4 @@
-###Cost-Benefit Analysis of Buying Non-Use Rights for Coal Mines###
+### Cost-Benefit Analysis of Buying Non-Use Rights for Coal Mines
 
 Contains:
 - Paper (.pdf)
